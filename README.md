@@ -28,7 +28,11 @@ API_ID = '<PUT API-ID HERE>' #replace this with API ID
 API_HASH = '<PUT API-HASH HERE>' #replace this with API HASH
 BOT_TOKEN = '<PUT BOT-TOKEN HERE>' #replace this with BOT-TOKEN
 ```
+ ### Deploy
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/riz4d/MAC-DumBot)<br><br>
+ [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/riz4d/MAC-DumBot)
 
+ 
 
 ### Run Program at Local machine
 
