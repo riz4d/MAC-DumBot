@@ -1,0 +1,36 @@
+{
+	"name": "THM_DL",
+	"description": "A python telegram bot with the integration of thispersondoesnotexist.com and Faker library ",
+	"logo": "",
+	"repository": "https://github.com/riz4d/AI-Fakerbot",
+	"env": {
+        "BOT_TOKEN": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+            "API_HASH": {
+            "description": "Your Telegram api id",
+            "value": ""
+        },
+          "API_ID": {
+            "description": "Your Telegram APi Hash",
+            "value": ""
+        ,
+          "API_KEY": {
+            "description": "read README.md",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
