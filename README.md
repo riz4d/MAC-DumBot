@@ -1,4 +1,4 @@
-# MAC-Dumb-CLI??
+# MAC-DumBot??
 
 Pyrogram telegram bot, It allows you to retrieve OUI vendor information, detect virtual machines, manufacturer, location, read the information encoded in the MAC address, and get our research's results regarding the given MAC address, OUI, IAB.
 
